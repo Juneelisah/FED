@@ -33,7 +33,7 @@ responsive
 
 ### Je opdracht:
 
-https://medium.com
+https://www.benjerry.nl
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
