@@ -65,7 +65,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 
 ### de hele pagina:
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu):
 
