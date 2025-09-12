@@ -101,10 +101,13 @@ samen met je groepje opstellen
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- sections moeten een heading hebben en beginnen ermee
+- Nav in footer als nodig
+- icon met svg erin
+- span, visualy hidden lees meer, aria label
+- search label input button
+- geen figures
+- 
 
 </details>
 
