@@ -85,7 +85,8 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 ### Stand van zaken
 
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+-html opstellen
+-interactieve elementen vind ik lastig 
 ### Agenda voor meeting
 
 samen met je groepje opstellen
